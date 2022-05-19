@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YusrilMahendraPsb
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning web develover
+- 👀 I’m interested in IT
+- 🌱 I’m currently learning WEB develover
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
